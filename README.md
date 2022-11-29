@@ -1,4 +1,4 @@
-### Oi tudo bem? 👋
+### Oi, tudo bem? 👋
 
 <!--
 **josemiguelmachado/josemiguelmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
