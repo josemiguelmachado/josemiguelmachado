@@ -1,4 +1,4 @@
-### Oi, Eu sou o Miguel. Tudo bem? 👋
+### Oi, Eu sou o Miguel. Tudo bem?
 
 <!--
 **josemiguelmachado/josemiguelmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
