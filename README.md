@@ -1,5 +1,5 @@
 ### Oi, Eu sou o Miguel. Tudo bem?
-<p>Vou colocar um parágrafo</p>
+
 <!--
 **josemiguelmachado/josemiguelmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##
+<p>Vou colocar um parágrafo</p>
 <div align="center">
   <a href="https://github.com/josemiguelmachado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemiguelmachado&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
