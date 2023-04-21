@@ -1,5 +1,5 @@
-Oi eu sou José Miguel Machado!
-<hr>
+## Oi eu sou José Miguel Machado!
+
 ![Status José Miguel Machado](https://github-readme-stats.vercel.app/api?username=josemiguelmachado&theme=great-gatsby)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=josemiguelmachado&layout=compact&theme=great-gatsby)
 <hr>
